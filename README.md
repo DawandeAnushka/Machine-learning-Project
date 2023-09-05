@@ -1,2 +1,2 @@
 # Project
-Machine Learning
+Machine Learning Project on E-com Churn Prediction.
